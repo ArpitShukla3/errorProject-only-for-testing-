@@ -1,0 +1,12 @@
+{
+  "name": "buggy-api-app",
+  "version": "1.0.0",
+  "description": "A buggy API app with error logging",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
